@@ -131,6 +131,7 @@ The main components for this project is:
 
 * Integrating Screen reader for ease of use for specially-abled people. 
 * Looking into self hosting a [WebRTC server](https://docs.livekit.io/home/self-hosting/deployment/) so that we don't have to reply on Livekit's Cloud service.
+* Creating a auto web scrapper so that we do not have to manually create a document all the time.
 ## Demo
 
 ![Demo]()
