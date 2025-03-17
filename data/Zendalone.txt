@@ -1,0 +1,1554 @@
+Accessible-Coconut (AC) Overview
+●
+●
+Description: A GNU/Linux OS derived from Ubuntu-MATE, focused on accessibility for the
+visually impaired. It offers a professional, free, and open-source desktop environment.
+Mission: To enable seamless navigation, communication, and creation for visually impaired
+users through innovative features and community collaboration.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Screen Reader: Speech synthesis and Braille support.
+Math Tutor: Develop math skills in a playful way.
+Musical Instrument: Play instruments using the computer keyboard.
+Print Reading: Read printed books using a scanner in multiple languages.
+Editing Suites: Accessible audio and video editing solutions.
+Disk Management: Accessible disk management solutions.
+Six Key Input: Braille typing using a Perkins Brailler mode.
+Media Conversion: Convert multimedia files to over 100 formats.
+Keyboard Shortcuts: Includes functions for screenshots, battery status, brightness control,
+etc.
+Typing Tutor: Improve typing skills in various languages.
+Magnification: Screen magnification facility.
+Console Screenreader: Makes Linux Console accessible.
+Chess Game: Play chess without sight barriers.
+Ebook Speaker: Read ebooks in formats like epub, pdf, text.
+Oﬃce Suite: Includes LibreOﬃce (Writer, Calc, Impress).
+Daisy-Player: Play books in daisy format.
+Smartphone Connectivity: Use KDE-Connect for smartphone integration.
+Basic Software: Includes Firefox, Chrome, VLC, Artha dictionary, Pidgin, Thunderbird, etc.
+Inherited Features from Debian GNU/Linux
+●
+●
+●
+●
+●
+Linux Kernel: Secure and stable.
+Stability and Reliability: Known for long-term stability.
+Security: Designed with file permissions and user privileges.
+Driver Support: Most hardware supported; proprietary drivers available if needed.
+User Control: No automatic actions without user permission.
+Coco-Patcher
+●
+Description: A tool for running scripts provided by the development team to apply fixes and
+install optional software or drivers.
+Desktop Environment: Mate
+●
+Qualities:
+●
+●
+●
+●
+Lightweight: Consumes less power and resources.
+Quick Response: Fast and easy to use.
+Traditional Experience: Uses latest software libraries like GTK-3.
+Accessibility: Highly accessible with screen readers.
+Orca Screen Reader
+●
+●
+●
+Documentation: Orca Documentation
+Toggle: Alt+Super+S to toggle on/off.
+Preferences: Access with Insert+Space.
+Installation Guide
+1. Download: Latest Version
+2. Create Bootable USB:
+●
+Tools: balena Etcher, Startup Disk Creator, USB Image Writer, Rufus, UNetbootin.
+3. 4. 5. Boot into Live Mode: Use the USB to boot.
+Install OS: Follow the guided installation process.
+Restart: Remove the USB and restart.
+System Requirements
+●
+●
+Disk Space: At least 15 GB.
+Boot Modes: Compatible with UEFI and Legacy.
+Additional Resources
+●
+Video Tutorials: YouTube Channel
+Keyboard Shortcuts
+●
+●
+●
+Super+Home: Open Home Folder
+Super+Alt+Up/Down: Adjust system volume
+Super+Alt+S: Toggle screen reader
+●
+●
+●
+●
+●
+●
+●
+Super+Alt+M: Toggle Magnifier
+Super+Alt+B: Say Battery status
+Super+Alt+W: Restart WiFi
+Super+Alt+J: Set screen brightness
+Super+Space: Change keyboard layout
+Alt+Ctrl+Delete: Shutdown or restart
+Super+Tab: Switch between panels and desktop
+Installed Applications
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Artha: English oﬄine Dictionary
+Audacious: Audio Player
+Audacity: Sound recording and editing
+Avidemux: Video editing tool
+Blueman: Bluetooth manager
+Brasero: CD/DVD Writing
+Chromium: Web Browsing
+CPU-X: System configuration viewer
+Curlew: Audio Converter
+Daisy-Player: Play daisy audio formats
+Disks: Disk partitioning tool
+Document Viewer: PDF viewer
+Document Scanner: Image scanning
+eBook-Speaker: Read ebooks aloud
+Firefox: Web Browsing
+Gimp: Image Editor
+Gparted: Partition storage devices
+Grub-Customizer: Change boot entries
+IBus-Braille: Braille typing mode
+Instruments: Play instruments via LMMS
+KDEConnect: Connect smartphones
+Libreoﬃce: Oﬃce suite
+Lios: Document scanning and OCR
+LMMS: Music production
+Maths-Tutor: Math skills game
+Onboard: Onscreen keyboard
+Orca: Screen Reader
+Periodic-Table: Accessible Periodic Table
+Pidgin: Instant messaging client
+Pluma: Text Editor
+Preload: Reduce application startup time
+Sharada-Braille-Writer: Braille text editor
+Snakes and Ladders: Educational game
+SMPlayer, VLC: Media players
+●
+●
+●
+●
+●
+●
+Notes
+●
+●
+●
+Startup Disk Creator: Make bootable pendrive
+Transmission: BitTorrent client
+Tuxmath: Math practice game
+Tuxtype: Typing and Braille game
+VCD-Imager: Extract video from VCD/DVD
+XBoard: Chess GUI
+UEFI: Unified Extensible Firmware Interface.
+BIOS Access: Steps for accessing BIOS in UEFI-enabled systems.
+Partitioning: Use 'Fixparts' if no partitions are listed.
+Accessible Maths-Tutor Overview
+●
+●
+Description: A tool that combines gaming with mathematics education, designed to be
+engaging and accessible, especially for the visually impaired.
+Purpose: To enhance mathematical literacy and proficiency through an interactive and
+enjoyable learning experience.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+User Interface: Kid-friendly and easy to navigate.
+Language Options: English and Malayalam.
+Customization: Users can select preferred operators and diﬃculty levels.
+Question Upload: Option to upload custom question sets.
+Text-to-Speech: Synthesizer for accessibility.
+Reset Option: Allows resetting of settings within the game.
+Keyboard Shortcuts: For repeating questions and adjusting speech rate.
+Game Progression: Users advance through questions, increasing in complexity.
+Feedback and Scoring: Provides feedback based on speed and accuracy.
+Introduction
+●
+●
+●
+Objective: To revolutionize math education for the visually impaired using inclusive game
+design.
+Accessibility Tools: Supports Abacus, Taylor Frame, and software integration.
+Commitment: Ensures quality math education for all, regardless of visual ability.
+System Integration
+●
+●
+Screen Reader: Can be enabled for answer reading.
+Theme Customization: Changeable via system settings in Linux.
+Gameplay
+●
+●
+●
+Startup: Language selection dialog box with a 'remember selection' option.
+Game Mechanics:
+●
+Start with number concepts (0-9).
+●
+Feedback provided based on response time.
+●
+Three attempts allowed per question.
+●
+Default starts with simple addition.
+Appreciation Time Calculation:
+●
+Excellent: Answer within 50% of allotted time.
+●
+●
+●
+●
+Very Good: Answer within 75% of allotted time.
+Good: Answer within allotted time.
+Fair: Answer within 125% of allotted time.
+Okay: Answer beyond 125% of allotted time.
+Scoring System
+●
+●
+Points Allocation:
+●
+Excellent: 50 points
+●
+Very Good: 40 points
+●
+Good: 30 points
+●
+Fair: 20 points
+●
+Okay: 10 points
+●
+Wrong Answer: -10 points
+Final Grade Calculation: Total score multiplied by 100, divided by 50 times the number of
+questions attended.
+Settings
+●
+●
+Access: Alt + S to open settings menu.
+Options:
+●
+●
+●
+●
+Change operator or diﬃculty level.
+Select speech synthesizer and language.
+Load custom question files.
+Reset settings to default.
+Question File Preparation
+●
+●
+Format:
+●
+●
+Example:
+●
+●
+Question expression === allotted time === bell ring needed or not.
+Methods for operands: Fixed number, range, or multiplication.
+2===10===1 (Fixed number, 10 seconds, bell ring needed)
+1:9===20===1 (Range, 20 seconds, bell ring needed)
+FAQs
+●
+●
+●
+●
+●
+Scoring: Based on correctness and speed.
+Improving Score: Answer quickly and accurately.
+Exiting Game: Click "Quit" or close the window.
+Issues: Refer to "About" section for support.
+Time Limit: Yes, each question has a time limit.
+●
+●
+Progress Tracking: Scores displayed at the end of each game.
+Creator Information: Available in "About" and "User Guide".
+Installation Guide
+1. Accessible-Coconut:
+●
+Connect to the internet.
+●
+Open Coco-Patcher.
+●
+Run install-or-update-maths-tutor.sh.
+2. Ubuntu Users:
+●
+Add PPA: sudo add-apt-repository ppa:nalin-x-linux/maths-tutor
+●
+Install: sudo apt-get install maths-tutor
+3. Git Installation:
+●
+Clone repository: git clone https://github.com/zendalona/maths-tutor.git
+●
+Navigate: cd braille-translator-gui
+●
+Install: sudo python3 setup.py install --install-data=/usr
+●
+Access: Application -> Games -> Maths-Tutor
+Accessible-Bluff Overview
+●
+●
+Description: A web-based card game focused on inclusivity, allowing both visually impaired
+and sighted individuals to play together. It replicates real-world gaming scenarios with a
+focus on bluﬃng skills.
+Purpose: To foster an inclusive culture through gaming, enhancing social interaction and
+collaboration.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Inclusive Gaming: Playable with visually impaired companions.
+Remote Social Gaming: Enjoyable with friends regardless of location.
+Collaborative Game Design: Create private rooms for personalized gaming experiences.
+Immersive Gaming: Sound effects enhance game actions.
+Real-Time Messaging: Instant messaging for a real-time experience.
+Smoother Gameplay: Organized keyboard shortcuts for ease of play.
+Joker Cards: Add unpredictability to the game.
+Timer: Game clock for pacing.
+Seamless Play: Card sorter for smooth gameplay.
+Mischievous-Proof Gameplay: Reliable play for all participants.
+Introduction
+●
+●
+Role of Games: Improve concentration, skill development, social interaction, memory,
+teamwork, and creativity.
+Game Objective: Players aim to get rid of all their cards by bluﬃng or telling the truth.
+How to Play Bluff
+●
+●
+●
+Gameplay: Players place cards and may bluff about their identity. Others can challenge the
+bluff.
+Winning: The first player to clear all cards wins.
+Round Conclusion: A round ends when all players pass or a challenge is raised.
+Online Accessible-Bluff Gameplay
+●
+●
+●
+●
+Screen Reader: Visually impaired users can activate a screen reader for seamless play.
+Login Process: Initial login requires Google authentication and profile setup.
+Room Creation: Create or join rooms with up to 7 players.
+Game Start: Begins when all players join a room.
+●
+●
+Card Placement: Players can place, raise, or pass. Bluff text can be used to mislead
+opponents.
+Inactivity: Players inactive for two rounds are blacklisted.
+Home Page Options
+●
+●
+●
+●
+Account: View profile details.
+About: Learn more about the application.
+User Guide: Guidance on using the application.
+Log Out: Exit the application.
+Winning Criteria
+●
+●
+Victory: Achieved by eliminating all cards.
+Game End: When only one player remains with cards or all others are blacklisted.
+Round and Competency Criteria
+●
+●
+Round Change: Occurs when all players pass or a penalty is incurred.
+Competency Levels: Assessed after 11 games, ranging from Good to Expert.
+Marks Criteria
+●
+Quartile System: Marks awarded based on player ranking in each game.
+Keyboard Shortcuts
+●
+●
+Gameplay:
+●
+J: Card placing
+●
+F: Card raises
+●
+;: Pass
+●
+H: Say selected cards
+●
+S: Move focus to first card
+●
+L: Move focus to last card
+●
+G: Say last game
+●
+A: Say all cards as sets
+●
+Backspace: Focus instant message entry
+●
+Tab: Quit instant message entry
+●
+F2: Say all keyboard shortcuts
+Screen Readers:
+●
+NVDA: insert+space
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+JAWS: insert+z
+ORCA: insert+z
+VoiceOver: control+option+shift+u
+Victory Conditions: Eliminate all cards.
+Raise Time: 9 seconds for others to raise after a card is placed.
+Round Definition: Begins with card placement and ends with a penalty or all passing.
+Bluff Text: Updated at the start of each round.
+Joker Card: Can substitute any card.
+Exiting Game: Players can leave anytime.
+Inactivity: 30 seconds to act, or turn is passed.
+Draw: No provision for a draw.
+Admin Control: Cannot remove players.
+New Players: Cannot join once the game starts.
+Sighted Players: Can join and disable audio.
+Bug Reporting: No current feature for reporting bugs.
+Application Hang: No solution provided.
+Internet Loss: 2-minute window to rejoin.
+Mobile Version: Not available.
+Game History: Not saved.
+Data Collection: No personal data collected.
+TuxMath
+●
+●
+Description: "Tux of Math Command" is an educational math drill game featuring Tux, the
+Linux Penguin, designed to help children aged 4-10 improve their math skills.
+Purpose: To make learning math fun and interactive through engaging gameplay.
+Features
+●
+●
+●
+●
+●
+●
+Target Audience: Kids aged 4-10 years.
+Math Lessons: Covers basic arithmetic operations (addition, subtraction, multiplication,
+division) with positive and negative numbers.
+Game Modes:
+●
+Playing Alone: Includes modes like Math Command Training Academy, Math Fleet
+Mission, Play Arcade Game, and Play Custom Game. Equations are announced via
+TTS.
+●
+Playing with Friends: Multiplayer mode for collaborative play.
+In-Game Assistance:
+●
+Feedback Keys: F1, F2, F3 keys provide score, igloos status, and wave number.
+●
+Audio Cues: Indicate comet position with pitch and rate changes.
+Special Comets:
+●
+Repair Comet: Repairs damaged igloos.
+●
+Smart Bomb Comet: Destroys all comets on screen when activated.
+Audio Customization: Adjust background music and effects volume during gameplay.
+How to Play
+●
+●
+●
+●
+Objective: Save penguin igloos from falling comets by solving math problems.
+Gameplay: Correct answers stop comets; incorrect answers melt igloos.
+Bonus Comets: Identified by red color, provide special weapons.
+Main Menu Options: Play Alone, Network Game, Play With Friends, Factoroids, Help.
+Game Modes
+●
+●
+●
+●
+Play Alone:
+●
+Math Command Training Academy: Progress from simple typing to complex math
+problems.
+●
+Math Command Fleet Missions: Each round is a mission.
+●
+Play Arcade Game: Various diﬃculty levels from Space Cadet to Commando.
+Network Game: Play with friends over a local network.
+Play With Friends: Turn-based play on a single computer.
+Factoroids: Identify factors of numbers using a gun to shoot asteroids.
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+What is Tux Math?: An open-source educational software for learning basic math skills.
+Math Skills Covered: Basic arithmetic operations and mental math.
+Platform Availability: Windows, macOS, Linux, and educational distributions.
+Cost: Free and open-source.
+Educational Use: Suitable for schools and educational settings.
+Engagement: Arcade-style gameplay to motivate practice.
+Challenges and Levels: Ranges from basic to complex calculations.
+Multiplayer Features: Includes Network Game and Play with Friends options.
+Feedback: Provides instant feedback on answers.
+Accessibility in Accessible-Coconut: Provides voice guidance throughout the game.
+Tux Typing Overview
+●
+●
+Description: Tux Typing is an educational typing program featuring Tux, the Linux Penguin,
+designed to help children improve their typing skills through interactive gameplay.
+Purpose: To enhance typing proficiency in a fun and engaging manner.
+Features
+●
+●
+●
+●
+●
+●
+Target Audience: Designed for children and beginners of all ages.
+Activities:
+●
+Lessons: Offers phrase and finger exercises with TTS guidance.
+●
+Fish Cascade: Type words on descending fish to prevent them from reaching the
+bottom.
+●
+Comet Zap: Type words to prevent comets from destroying buildings.
+Special Comets:
+●
+Repair Comet: Repairs damaged igloos.
+●
+Smart Bomb Comet: Destroys all comets on screen when activated.
+Feedback Keys:
+●
+F1: Displays remaining fish or score.
+●
+F2: Shows remaining lives or number of cities alive.
+●
+F3: Indicates the current wave in Comet Zap.
+Supported Languages: Lists languages compatible with espeak, including various accents
+and dialects.
+Game Controls:
+●
+Pause Feature: Pause games with the escape key.
+●
+Volume Control: Adjust music and effects volume with arrow keys.
+●
+Language Customization: Add languages to Braille mode via text file format.
+Introduction
+●
+●
+Educational Value: Tux Typing is not just a game but a learning tool to improve typing skills.
+Game Mechanics: Players type words to remove them from falling objects, improving typing
+speed and accuracy.
+How to Play
+●
+●
+●
+Fish Cascade: Help Tux eat fish by typing words on them. Features different diﬃculty levels
+and word categories.
+Comet Zap: Defend cities by typing letters on comets. Features different diﬃculty levels.
+Training: Offers Basic Lessons and Phrase Typing to improve typing skills.
+Options
+●
+●
+●
+Word List Editor: Add, edit, or remove word lists.
+Language Settings: Choose desired language; English is default.
+Braille Key Settings: Configure Braille keys for typing.
+Tux Typing with Speech
+●
+Speech Support: Provides voice guidance throughout the game, announcing falling words
+and letters.
+Tux Typing Braille
+●
+●
+Braille-Based Version: Uses Braille keys (f, d, s, j, k, l) for typing words.
+Screen Reader Support: Reads words and letters aloud.
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+What is Tux Typing?: An educational typing tutor game for improving typing skills.
+Age Suitability: Suitable for children and beginners of all ages.
+Skills Focus: Keyboard familiarity, accuracy, speed, and finger placement.
+Cost: Free and open-source.
+Platform Availability: Windows, macOS, Linux, and educational distributions.
+Screen Reader Compatibility: Accessible for visually impaired users.
+Language Support: Supports multiple languages for multilingual practice.
+Levels and Challenges: Offers various levels and typing challenges.
+Educational Use: Suitable for schools and educational settings.
+Typing Exercises: Includes letter, word, sentence drills, and typing games.
+Practice Mode: Focus on specific skills without time limits or scores.
+Speech Relevance: Provides voice guidance in Accessible-Coconut.
+Typing Games: Features Fish Cascade and Comet Zap.
+Braille-Based Version: Uses Braille keys for typing, designed for Braille users.
+Beginner Use of Braille Version: Challenging for non-Braille users, but practice sessions
+available.
+Accessing Braille Version: Navigate to Applications > Education > Tux Typing Braille.
+XBoard
+●
+●
+Description: XBoard is a graphical user interface for chess engines under the X Window
+System, developed by the GNU project. It includes accessibility features for visually impaired
+users, such as speech support and screen reader compatibility.
+Purpose: To provide an accessible platform for playing, analyzing, and studying chess
+games.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Main XBoard Window:
+●
+Title Bar: Displays information.
+●
+Menu Bar: Controls XBoard functions.
+●
+Chess Clocks: For white and black players.
+●
+Button Bar: Navigate through the current game.
+●
+Message Field: Displays moves, variations, and messages.
+●
+Chess Board Area: Main area for gameplay.
+Variation Board: Allows observation of other games in the background, useful for tracking
+partner progress in bughouse.
+Comment Window: Displays and edits PGN file comments and variations.
+Engine Output: Shows engine's best moves, scores, and search depths.
+Move List: Displays game moves in SAN notation with optional comments.
+Edit Book: Displays available moves for the current position and supports editing.
+Mode Menu: Controls XBoard's actions, such as playing against engines or setting up
+matches.
+ICS Interaction/Chat Window: Communicate with Internet Chess Servers (ICS) through a
+dedicated window.
+Save Options: Manual and automatic saving of games or positions in PGN format.
+Common Engine Options: Set parameters for all engines, such as hash-table size and core
+usage.
+ICS Options: Adjust settings for ICS play, including message colors and premove toggling.
+Board Options: Configure board appearance, including square colors and external image
+files.
+Sound Options: Use an external sound player for predefined sounds linked to events.
+Tags Window: View or edit PGN tags of a stored game.
+Menus: Provide access to various functions and settings.
+General Options: On/off settings for features like animate dragging, blindfold mode, and
+auto-flag.
+Adjudication Options: Recognize checkmates, stalemates, and draw conditions.
+ICS Text Menu: Customize buttons for frequently used ICS commands.
+Load Options: Manage loading and selection of games, with auto-play settings.
+Load Engine: Switch or start using different engines.
+Themes: Save graphical settings combinations as themes.
+User Guide
+●
+●
+●
+●
+Auxiliary Windows: Include game list, comment window, tags window, move list, engine
+output, evaluation graph, and ICS interaction console.
+Main Window Operation: Use mouse and keyboard shortcuts for navigation and gameplay.
+Variation Board: Useful for engine play and observing other games.
+Seek Graph: Displays players seeking games on ICS.
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+What is XBoard?: A GUI for playing chess games against players or engines.
+Cost: Free and open-source.
+Platform Support: Linux, macOS, Windows.
+Playing Against Engines: Supports various chess engines like Stockfish and GNU Chess.
+Game Analysis: Features for analyzing games and positions.
+Customization: Board and piece themes, colors, and visual appearance.
+Online Play: Primarily local play; can be used with chess server clients for online play.
+Making Moves: Click on pieces or use algebraic notation.
+Undo Moves: Use the "Edit" menu or shortcuts to take back moves.
+Starting New Games: Use the "Game" menu to start a new game.
+Accessible Snakes and Ladders
+●
+●
+Description: A native desktop board game designed to make the classic Snakes and Ladders
+accessible to all players, with a focus on inclusivity and enjoyment for individuals of all
+abilities.
+Purpose: To provide an engaging and educational gaming experience that is accessible to
+everyone, including those with visual impairments.
+Features
+●
+●
+●
+●
+●
+Single/Multiplayer: Play alone or with up to four players, including machine players.
+Diverse Game Boards: Explore different boards with unique challenges.
+Education Mode: Enhance addition skills through math challenges.
+Speech Support: Inclusive gameplay with voice notifications for visually impaired users.
+Hotkeys: Keyboard shortcuts for ease of gameplay.
+Introduction
+●
+●
+Game Objective: Navigate a board filled with snakes and ladders, aiming to reach the finish
+line first by rolling dice and moving game pieces.
+Educational Benefits: Combines entertainment with educational challenges, suitable for
+players of all ages and skill levels.
+How to Play
+●
+●
+●
+Starting the Game:
+1. Open the application menu using Alt + F1.
+2. Navigate to the Game submenu and select “Snakes And Ladders.”
+3. Choose a game board and the number of players.
+4. Select a game mode: Normal Mode or Education Mode.
+Rolling the Dice:
+1. Press the ‘Spacebar’ key to roll the dice.
+2. Roll a 1 or 6 to start; rolling a 6 grants a bonus turn.
+Game Modes:
+1. Normal Mode: Automatic token movement, focus on strategy.
+2. Education Mode: Solve math problems to move tokens; three chances to answer
+correctly.
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Starting the Game: Use Alt + F1 to open the application menu and select “Snakes And
+Ladders.”
+Player Participation: Up to four players can participate.
+Game Modes: Normal Mode for automatic movement; Education Mode for math challenges.
+Dice Rolling: Press ‘Spacebar’ to roll the dice.
+Checking Position: Press ‘P’ to check your position on the board.
+Snakes and Ladders Positions: Press ‘A’ to announce positions.
+Background Music: Yes, immersive music enhances the gaming experience.
+Wrong Answers in Education Mode: Three chances to answer correctly; automatic
+adjustment after that.
+Changing Settings: Not possible during gameplay; exit to make changes.
+Exiting the Game: Close the application window or use the menu option.
+Windows Compatibility: Yes, compatible with Windows OS.
+Accessibility for Low-Vision Kids: Voice assistance, screen reader support, and keyboard
+shortcuts.
+Cost and Open-Source: Free and open-source, encouraging community collaboration.
+Game Board Themes: Unique themes for each board; cannot be changed.
+Diﬃculty Levels: No diﬃculty levels, but Education Mode offers challenges.
+Voice Assistance Customization: Currently not customizable, but provides essential
+notifications.
+Tutorial or Guide: An in-depth user guide is available from the main menu.
+Braille Translator GUI
+●
+●
+Description: An oﬄine application designed for text-to-Braille conversion, focusing on
+accessibility and user-friendliness. It supports Grade 1 and Grade 2 Braille translations and
+offers robust text editing tools.
+Purpose: To make text accessible to visually impaired individuals by converting it into Braille.
+Features
+●
+●
+●
+●
+●
+●
+Multilingual Support: Covers 40+ languages, including unique Braille contractions.
+Text Editing Functions: Includes cut, copy, paste, undo, redo, go to line, find, and find and
+replace.
+Document Handling: Create, open, and save documents with ease.
+Interface Customization: Adjust font size, text color, and background color for comfort.
+Selective Translation: Translate specific portions of text.
+Line Limit: Adjust Braille line length to fit paper size.
+Introduction
+●
+●
+Purpose: Designed to help users easily translate text into Braille, making it accessible for
+visually impaired individuals.
+User Guide: Provides a walkthrough of the main features and functionality.
+How to Translate
+1. 2. 3. 4. 5. Download and Open: Access the application and open it to see two text areas.
+Select Language and Braille Grade: Choose the language and Braille grade (Grade 1 or Grade
+2).
+Set Line Length: Customize the line length for Braille.
+Input Text: Type or import text into the first text area.
+Translate: Click ‘Translate’ to convert text into Braille in the second text area.
+Editing Tools
+●
+●
+●
+●
+●
+●
+●
+New: Start a fresh document.
+Open: Work on an existing file.
+Save/Save As: Save your work.
+Cut/Copy/Paste: Standard text manipulation.
+Go to Line: Navigate to a specific line.
+Find/Find and Replace: Locate and swap words.
+Undo/Redo: Correct mistakes or changes.
+Shortcuts
+●
+●
+●
+Alt + 1: Jump to the first text view.
+Alt + 2: Jump to the second text view.
+Alt + T: Quick translation.
+Readability
+●
+Customization: Adjust font style, color, and background for comfort.
+Line Limit Setting
+●
+●
+Purpose: Helps manage Braille paper usage by setting line limits.
+Spin Button: Default set to 20 lines, adjustable as needed.
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Platform Availability: Currently available on GNU/Linux.
+Vision Impairment Compatibility: Usable with screen readers.
+Oﬄine Availability: Yes, it is an oﬄine application.
+Text Import: Open text files directly.
+Grade 1 vs. Grade 2 Braille: Grade 1 is basic; Grade 2 includes contractions.
+Appearance Customization: Change font style, size, color, and background.
+Text Size Limitations: Check for any restrictions on text length.
+Screen Reader Compatibility: Accessible for visually impaired users.
+Braille Notation Support: Supports Nemeth code for mathematics.
+Online Use: Not available; only oﬄine use is supported.
+IBus-Braille
+●
+●
+Description: IBus-Braille is an input method for GNU/Linux that uses a six-key approach to
+Braille, allowing users to produce text using Braille combinations. It supports Grade 1 and
+Grade 2 Braille input for multiple languages.
+Purpose: To provide an accessible text input method for visually impaired users using Braille.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+Language Support: Supports Grade 1 and Grade 2 Braille input for many languages.
+Two Engines: Works with two back translation engines (Liblouis, Built-in).
+User Abbreviations: Allows setting user-defined abbreviations.
+Mathematical and Scientific Notation: Supports Nemeth code for Math Braille.
+Key Customization: Easy interface for key/shortcut customization.
+Switch Braille/System Input: Shortcut to toggle between Braille input and system default
+input.
+Line Limiting: Option for line limiting and auto newline.
+Auto Capitalization: Automatically capitalizes the first character of a line and sentence.
+Introduction
+●
+Purpose: An alternate approach to input text using Braille combinations, designed for visually
+impaired users.
+Activation and Language Switching
+1. Activating IBus-Braille:
+●
+Type “IBus-Braille” in the terminal and press Enter.
+●
+Or press and hold the super key and press the letter “i”.
+2. Changing Languages:
+●
+Press the pause key to switch languages.
+●
+On laptops, press and hold the function key and the pause key.
+●
+Default support for English and Malayalam; more languages can be added via
+preferences.
+Preferences and Modes
+●
+●
+IBus Braille Preferences:
+●
+Access via applications menu > accessories > IBus-Braille preferences.
+●
+Dual-paged dialog box with options for language selection, simple mode editing,
+conventional Braille mode, and one-hand mode.
+Simple Mode Editing: Prevents use of forward contractions, designed for beginners.
+●
+●
+Conventional Braille Mode: Mirrors sighted writing methods for better understanding.
+One Hand Mode: Allows typing with a single hand by adjusting key combinations and
+introducing a delay.
+Abbreviation and Language Editor
+●
+●
+IBus Braille Abbreviation Editor:
+●
+Create and edit abbreviations.
+●
+Access via applications menu > accessories > abbreviation editor.
+IBus-Braille Language Editor:
+●
+Add new languages and contractions.
+●
+Access via applications menu > accessories > language editor.
+Installation
+●
+●
+●
+menu.
+BASH
+Using Coco-Patcher: For Accessible-Coconut users, use Coco-Patcher in System tools
+Using PPA: For Ubuntu-based distributions, use the following commands:
+1sudo add-apt-repository ppa:nalin-x-linux/libbraille-input
+2sudo add-apt-repository ppa:nalin-x-linux/ibus-braille
+●
+●
+●
+3sudo apt-get install -y ibus-braille libbraille-input
+Using .deb Packages: Download and install from Sourceforge for Debian-based distributions.
+Compiling from Source:
+●
+libbraille-input:
+●
+BASH
+1git clone https://github.com/zendalona/libbraille-input.git
+2cd libbraille-input
+3./configure
+4make
+●
+●
+●
+5make install
+ibus-braille:
+BASH
+1git clone https://github.com/zendalona/ibus-braille.git
+2cd ibus-braille
+3./configure
+4make
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+5make install
+Activation: Use terminal or keyboard shortcut.
+Language Switching: Use the pause key; additional languages via preferences.
+Preferences Access: Applications menu > accessories > IBus-Braille preferences.
+Simple Mode Editing: Designed for beginners to prevent forward contractions.
+Conventional Braille Mode: Mirrors sighted writing methods.
+One Hand Mode: Allows single-hand typing with delay adjustment.
+Kanmani
+●
+●
+Description: Kanmani is a special Braille system designed for Malayalam, created by Sishna
+Anand and her father, Anand Krishnan, and developed by Zendalona. It is designed to be
+accessible for deaf-blind individuals.
+Purpose: To provide a more accessible Braille system for reading and writing in Malayalam.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Language Support: Supports Grade 1 and Grade 2 Braille input for many languages.
+Two Engines: Works with two back translation engines (Liblouis, Built-in).
+User Abbreviations: Allows setting user-defined abbreviations.
+Mathematical and Scientific Notation: Supports Nemeth code for Math Braille.
+Multiple Tabs: Supports multiple tabs for editing several files.
+Switch Braille/System Input: Shortcut to toggle between Braille input and system default
+input.
+Line Limiting: Option for line limiting and auto newline.
+Auto Capitalization: Automatically capitalizes the first character of a line and sentence.
+Key Customization: Easy interface for key/shortcut customization.
+Readability: Supports theme and font selection for better readability.
+Text Editing Functions: Includes undo/redo, find, find and replace, go-to-line, spell checker,
+etc.
+Text to Audio Converter: Converts text to audio using a text-to-speech engine.
+Introduction
+●
+Purpose: Kanmani is designed for deaf-blind individuals to read and write in Malayalam
+using a Braille display.
+How to Use Kanmani
+●
+●
+Activation: Kanmani is not enabled for current SBW users; contact Zendalona for access.
+Usage: Deaf-blind individuals use a Braille display to read and type Malayalam in English,
+which is then translated into Malayalam.
+Sharada-Braille-Writer (SBW) Overview
+●
+●
+Description: A text editor that allows typing in multiple languages using six keys on a
+computer keyboard, representing Braille dots.
+Purpose: To facilitate Braille typing for visually impaired users.
+How to Use SBW
+●
+●
+●
+●
+Opening SBW: Access via application menu > universal access > Sharada Braille Writer.
+Changing Language: Use function keys F2 to F11 for different languages; F12 to switch
+between normal and Braille keyboard.
+File Management:
+●
+New Tab: Control + N
+●
+Save Document: Control + S
+●
+Open File: Control + O
+Editing:
+●
+●
+●
+Undo/Redo: Control + Z / Control + Y
+Go to Line: Control + I
+Find/Replace: Control + F / Shift + Control + F
+Language and Abbreviation Editor
+●
+●
+●
+Liblouis Language: 171 languages included; select via language menu.
+Built-in Language: 38 languages included.
+Abbreviation Editor: Create and edit abbreviations using Alt + Shift + M.
+Tools and Preferences
+●
+●
+●
+●
+Spell Check: Shift + F7 for English; additional setup for Malayalam.
+Audio Converter: Convert text to audio via tools menu.
+Font Size: Increase/Decrease with Control + Right/Left Square Bracket.
+Preferences: Access with Control + P; navigate through pages for settings.
+Special Features
+●
+●
+●
+Nemeth Braille Code: Supports mathematical symbols and notation.
+Key Bindings: Customize keys for Braille dots and functions.
+Common Shortcuts: Includes shortcuts for file management, editing, and navigation.
+FAQs
+●
+●
+●
+●
+●
+●
+What is Kanmani?: A Braille system for Malayalam, designed by Sishna Anand.
+Who is Sishna Anand?: Creator of Kanmani, facing visual and hearing challenges.
+Kanmani GNU/Linux: Designed for deaf-blind individuals to read and write in Malayalam.
+SBW Accessibility: Contact Zendalona for Kanmani access in SBW.
+SBW Features: Includes language support, text editing, and audio conversion.
+Lios
+●
+●
+Description: Lios is a free and open-source software for converting print into text using a
+scanner or camera. It supports text extraction from scanned images, PDFs, and screenshots,
+with full accessibility for visually impaired users.
+Purpose: To provide an accessible tool for converting printed material into digital text,
+enhancing accessibility for visually impaired individuals.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Image Import: Import images from scanners, PDFs, folders, or webcams.
+Screenshot Recognition: Capture and recognize text from screenshots.
+OCR Engines: Supports multiple OCR engines, including Tesseract and Cuneiform.
+Text-Cleaner: Post-process output with match-replace dialog.
+Auto Rotation: Supports auto rotation for visually impaired users.
+Brightness Optimizer: Optimizes scanner brightness for text recognition.
+Text Reader: Text-to-speech reader with customizable highlighting.
+Audio Converter: Converts text to audio using eSpeak.
+Spell-Checker: Uses aspell for spell-checking.
+Export Options: Export text as PDF (text/images).
+Dictionary Support: Includes Artha for English dictionary support.
+Preferences: Options for saving, loading, and resetting settings.
+Installation
+●
+Dependencies: Requires python3, tesseract-ocr, imagemagick, cuneiform, espeak, and other
+●
+●
+●
+libraries.
+menu.
+BASH
+Using Coco-Patcher: For Accessible-Coconut users, use Coco-Patcher in System tools
+Using PPA: For Ubuntu-based distributions, use the following commands:
+1sudo add-apt-repository ppa:nalin-x-linux/lios
+●
+●
+●
+●
+2sudo apt-get install -y lios
+Using .deb Packages: Download and install from Sourceforge for Debian-based distributions.
+Compiling from Source:
+BASH
+1git clone https://github.com/zendalona/lios.git
+2cd lios
+●
+3python3 setup.py install --install-data=/usr
+How to Use Lios
+●
+●
+●
+●
+●
+Opening Lios: Access via Application menu > Graphics > Lios, or search in the dashboard.
+Image Import: Import images from various sources, including scanner, PDF, and folders.
+OCR Process: Configure settings in preferences, select OCR engine, and process images.
+Audio Conversion: Convert text to audio via tools menu, adjusting speed, pitch, and volume.
+Text Manipulation: Use features like find, replace, and spell-check for text editing.
+Preferences and Utilities
+●
+●
+●
+●
+Preferences: Configure settings for scanning, recognition, and general options.
+Brightness Optimizer: Determine optimal brightness for scanning.
+Text Reader: Customize reading speed, voice, and volume.
+Utilities: Includes tools for brightness optimization and audio conversion.
+FAQs
+●
+●
+●
+●
+●
+Languages Supported: Supports multiple languages; up to three can be used
+simultaneously.
+Audio File Creation: Convert text to audio files using the audio converter.
+Screenshot Scanning: Capture and scan screenshots for text recognition.
+Screen Reader Compatibility: Fully accessible for visually impaired users.
+Print Upload Methods: Use PDFs, screenshots, or direct scanning.
+Keyboard Shortcuts
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Ctrl+O: Open file
+Ctrl+N: New page
+Ctrl+S: Save
+Ctrl+E: Export as PDF
+Ctrl+Q: Quit application
+Ctrl+P: Open Preferences
+Ctrl+F9: Scan and OCR repeatedly
+F9: Scan and OCR
+Ctrl+F4: Stop all processes
+F5: Start reader
+Ctrl+F5: Stop reader
+Ctrl+F8: Scan image repeatedly
+Ctrl+L: Go to line
+Ctrl+G: Go to page
+Online Braille Translator
+●
+●
+Description: A web-based tool designed for converting text into Braille, prioritizing
+accessibility and user-friendliness. It supports multiple languages and Braille grades, with
+features tailored for visually impaired users.
+Purpose: To provide an accessible platform for translating text into Braille, enhancing
+accessibility for visually impaired individuals.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+Multilingual Support: Covers 40+ languages, including unique Braille contractions.
+Text Editing Tools: Includes cut, copy, paste, undo, redo, go-to-line, and find-and-replace.
+Document Handling: Create, open, and download documents.
+Interface Customization: Adjust font size, font color, and background color for comfort.
+Direct Braille Typing: Type Braille directly using six keyboard keys.
+Selective Translation: Translate specific portions of text.
+Line Limit: Adjust Braille line length to fit paper size.
+Separate Tools: Separate tools for regular text and Braille editing.
+Introduction
+●
+Purpose: Designed to help users easily translate text into Braille, making it accessible for
+visually impaired individuals.
+How to Use the Online Braille Translator
+1. 2. 3. 4. 5. Access the Tool: Open the Braille Translator in a web browser.
+Input Text: Use the first text area to input the text you want to translate.
+Select Language and Braille Grade: Choose the language and Braille grade (Grade 1 or Grade
+2) from the combo-box.
+Set Line Length: Customize the line length for Braille.
+Translate: Click ‘Translate’ to convert text into Braille in the second text area.
+Additional Options
+●
+●
+files.
+Shortcuts:
+●
+●
+●
+Document Management: Start a new document, open existing files, and download translated
+Alt + 1: Jump to the first text view.
+Alt + 2: Jump to the second text view.
+Alt + T: Quick translation.
+●
+Readability: Customize font style, color, and background for comfort.
+FAQs
+●
+●
+●
+●
+●
+●
+●
+●
+Smartphone App: Accessible via web browsers on desktop and mobile devices.
+Screen Reader Compatibility: Fully accessible for visually impaired users.
+Text Import: Import text files directly.
+Grade 1 vs. Grade 2 Braille: Grade 1 is basic; Grade 2 includes contractions.
+Appearance Customization: Change font size, color, and background.
+Text Size Limitations: Check for any restrictions on text length.
+Braille Notation Support: Supports Nemeth code for mathematical symbols.
+Oﬄine Application: Available on the GNU/Linux platform for oﬄine use.
+Setting a Line Limit
+●
+●
+Purpose: Helps manage Braille paper usage by setting line limits.
+Spin Button: Default set to 20 lines, adjustable as needed.
+Online Six-Key (Braille) Input
+●
+●
+Description: An enhanced version of IBus-Braille, this tool allows users to input text using
+Braille combinations with six keys (f, d, s, j, k, l) in a Perkins Brailler-like method. It is
+accessible via web browsers on any platform, enabling text input without installing software
+on foreign devices.
+Purpose: To provide a convenient and accessible method for Braille text input across various
+platforms.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Language Support: Supports seven languages, including English, Malayalam, Hindi, Kannada,
+Tamil, French, and Spanish. English is the default language.
+Contractions: Supports Grade 2 and Grade 3 contractions in English and Malayalam.
+Contractions are activated by unchecking simple mode.
+Numerals: Uses Nemeth code for numerals, with specific key combinations for numbers.
+Punctuations: Produced by pressing the semicolon key followed by necessary combinations.
+Abbreviations: Use the letter 'a' as the abbreviation key to expand abbreviations.
+List Switching: Switch between middle and beginning lists using the map-switching key (left
+AL T).
+Simple Mode: Designed for beginners to disable abbreviations and contractions.
+Text Manipulation: Includes capital/chill key for capitalization and chillu in Malayalam, and
+letter deletion key for text editing.
+Caps Lock: Enable or disable by pressing the capital/chill key twice consecutively.
+Introduction
+●
+Purpose: An alternative approach to inputting text using Braille combinations, allowing users
+to input text from anywhere with Braille knowledge.
+How It Works
+●
+Key Combinations: Uses combinations of six keys (f, d, s, j, k, l) to represent Braille dots and
+●
+produce text.
+Screen Reader Compatibility: Fully accessible for visually impaired users through screen
+readers.
+Language and Contraction Details
+●
+Language Switching: Use the language switch key (Pause Break) to switch between
+languages.
+●
+Contraction Activation: Uncheck simple mode to activate contractions; use specific key
+combinations for contractions.
+Text Manipulation and Editing
+●
+●
+Capitalization: Use the capital/chill key ('g') for capital letters in English and chillu in
+Malayalam.
+Letter Deletion: Use the letter deletion key ('h') to delete the last letter; use with the
+capital/chill key to delete the last word.
+FAQs
+●
+●
+●
+●
+Platform Compatibility: Accessible via web browsers on any platform.
+Screen Reader Compatibility: Fully accessible for visually impaired users.
+Language Support: Includes seven languages with easy switching.
+Contractions and Abbreviations: Supports advanced text input features for eﬃcient typing.
+Sharada-Braille-Writer (SBW)
+●
+●
+Description: SBW is a text editor for GNU/Linux that supports Braille input using six keys (f,
+d, s, j, k, l) to represent Braille dots. It allows text input in over 40 languages in a Perkins-like
+manner.
+Purpose: To facilitate Braille typing for visually impaired users, supporting multiple languages
+and Braille grades.
+Features
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Language Support: Supports Grade 1 and Grade 2 Braille input for many languages.
+Two Engines: Works with two back translation engines (Liblouis, Built-in).
+User Abbreviations: Allows setting user-defined abbreviations.
+Mathematical and Scientific Notation: Supports Nemeth code for Math Braille.
+Multiple Tabs: Supports multiple tabs for editing several files.
+Switch Braille/System Input: Shortcut to toggle between Braille input and system default
+input.
+Line Limiting: Option for line limiting and auto newline.
+Auto Capitalization: Automatically capitalizes the first character of a line and sentence.
+Key Customization: Easy interface for key/shortcut customization.
+Readability: Supports theme and font selection for better readability.
+Text Editing Functions: Includes undo/redo, find, find and replace, go-to-line, spell checker,
+etc.
+●
+Text to Audio Converter: Converts text to audio using a text-to-speech engine.
+Introduction
+●
+Purpose: A text editor that allows typing in multiple languages using six keys on a computer
+keyboard, representing Braille dots.
+How to Use SBW
+●
+●
+●
+Opening SBW: Access via application menu > universal access > Sharada Braille Writer.
+Changing Language: Use function keys F2 to F11 for different languages; F12 to switch
+between normal and Braille keyboard.
+File Management:
+●
+New Tab: Control + N
+●
+Save Document: Control + S
+●
+Open File: Control + O
+Editing and Tools
+●
+●
+●
+●
+●
+Undo/Redo: Control + Z / Control + Y
+Go to Line: Control + I
+Find/Replace: Control + F / Shift + Control + F
+Spell Check: Shift + F7 for English; additional setup for Malayalam.
+Audio Converter: Convert text to audio via tools menu.
+Preferences and Customization
+●
+●
+●
+Preferences: Access with Control + P; navigate through pages for settings.
+Font and Theme: Customize font size, color, and background for comfort.
+Key Bindings: Customize keys for Braille dots and functions.
+Special Features
+●
+●
+Nemeth Braille Code: Supports mathematical symbols and notation.
+Braille Pattern: Activate with Control + F11 to display Braille dots.
+Installation
+●
+Using Coco-Patcher: For Accessible-Coconut users, use Coco-Patcher in System tools
+●
+●
+menu.
+BASH
+Using PPA: For Ubuntu-based distributions, use the following commands:
+1sudo add-apt-repository ppa:nalin-x-linux/libbraille-input
+2sudo add-apt-repository ppa:nalin-x-linux/sbw
+●
+●
+●
+3sudo apt-get install -y sharada-braille-writer libbraille-input
+Using .deb Packages: Download and install from Sourceforge for Debian-based distributions.
+Compiling from Source:
+●
+libbraille-input:
+●
+BASH
+1git clone https://github.com/zendalona/libbraille-input.git
+2cd libbraille-input
+3./configure
+4make
+●
+●
+●
+5make install
+sharada-braille-writer:
+BASH
+1git clone https://github.com/zendalona/sbw.git
+2cd sbw
+●
+3sudo python3 setup.py install --install-data=/usr
+FAQs
+●
+●
+●
+Screen Reader Compatibility: Fully accessible for visually impaired users.
+Braille Notation Support: Supports Nemeth code for mathematical symbols.
+Common Shortcuts: Includes shortcuts for file management, editing, and navigation.

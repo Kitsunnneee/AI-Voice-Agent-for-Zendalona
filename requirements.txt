@@ -1,0 +1,10 @@
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+livekit
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-cartesia
+livekit-plugins-silero
+sentence-transformers
+python-dotenv
