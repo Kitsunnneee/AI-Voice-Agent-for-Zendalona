@@ -134,5 +134,5 @@ The main components for this project is:
 * Creating a auto web scrapper so that we do not have to manually create a document all the time.
 ## Demo
 
-![Demo]()
+![Demo for Assistant](https://github.com/user-attachments/assets/ea485780-0c2c-44b2-b13d-1a1aa48e491c)
 
